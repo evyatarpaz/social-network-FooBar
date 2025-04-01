@@ -1,0 +1,12 @@
+[submodule "FooBar-Server"]
+	path = FooBar-Server
+	url = https://github.com/Eliaddr119/Foobar-Server.git
+[submodule "FooBar-Android-App"]
+	path = FooBar-Android-App
+	url = https://github.com/Eliaddr119/Foobar-Android-social-media-platform.git
+[submodule "FooBar-Web"]
+	path = FooBar-Web
+	url = https://github.com/Eliaddr119/foobar_part2_web.git
+[submodule "FooBar-BloomFilter"]
+	path = FooBar-BloomFilter
+	url = https://github.com/Eliaddr119/FooBar-Project.git
